@@ -22,8 +22,9 @@ In the end, we have the the data containing the name of the song, the album and 
 
 | song | album | lyrics |
 | --- | --- | --- | 
-| Taylor Swift | Tim McGraw | He said the way my blue eyes shined ... |
+| Taylor Swift | Tim McGraw | "He said the way my blue eyes shined ... |
 | ... | ... | ... |
+| Folklore: The Long Pond Studio Sessions (From the Disney+ Special) | The Lakes | "Is it romantic how all my elegies ... |
 
 
 
